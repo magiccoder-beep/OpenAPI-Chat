@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pharmazing-35318",
+  "private_key_id": "2d5e1cfb7acb5d2bfdccbf33897b992b73df4426",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCe5v14l/deNmO/\nFe58NkOO0HEQdudBcd1w20talnIwGuUOnndUIzSrFOlbRKA4sUIcMtcJqMWCQq5k\nLyD4qud/GCoyfDNaSUEFVvgUngpclmshd3yWusRMO+vN8UK6j4afA2QKF76BsTXT\nH/bcwV9m5hdzUl84aqc/yRwt2nzIZtHBzubnBRPg9Q1Pen6q5Qd5fRW6Db1L4OjN\n1iFCHu1YxSvJVRNflPWfA9XrPqDjCiHLdzDry1VwzzbF454rsyqs3+yrORCM9awO\nzsmAYOcj21eHr/Vmq7U0+XeFMrva0wF2nUulzxhOgpYg9sM7xoqID21xpqiIucYk\n2mkcna7ZAgMBAAECggEAGkhqtH+uUs78QKcIA1OWaRDhIrAIIDMNRZWAKUOpL3vD\nV1+urSQFmiajUo1PUxE+thtSpi5cPOd6oOeKtJbQI52DnUYd2Fk1gASalA5v+FCI\n98gju2q4/UMMBcxaFTGYOsT8zw6OXDVLidhHpMv3U7XLOy/swBAkCdDh8FOrQBo+\n67yNZ1rwgFOxwERfP/zYzxQhrpMUUSZhgtbK6lEp729mLMC9ziQWrkm7lO9Od30r\n7NWrcMVgzp/UR+8XawFNRTkPhSbq1ZQ5J2AFWTUysI+nLiVzWcsDPEMWHkIRWwj6\ntRfw3vSH7zQWp45JFaHtjh3gt6liIkUej9s0VMV1gQKBgQDNrLhaCJVh783FZqof\niEWaqGhNPCIonSdEYPvfyGSOtpsw4V438p53buDIPZK8r+bzOqHbcXoF/x9lRi9H\nRis13UYydPcm5AvU6A2eJbcTTOhU9Tz0TD0zC9LEOds/JVfbrmL+SRTUQJyS9iZr\n1koV9byKEOwWquNjl6NFVztDtQKBgQDFyH1NG3Pa3Na/aJMrdFUoJHi1iPRkZ9AP\n5cKxS7jB/xYCjd7NeKG9C6nnvCadkYQ2E1iiOFyb3b1aSihbkgHPP6zi38O1OFVf\nGI6dD5kcEFQgSTlYaB7ZpwSjA7uhDUc+xDKaqR3brUKje48lPMuKrOG/KVKdrs/A\ntcspcIM9FQKBgQC0/FZFM+RwCBtkp9DwanQFgkg2HsJYRuI087rw02BZjSrHOqo0\nRVVY98LpsfUcARYT1vZzKkocWMIB1l7oM0D25z5MTEzodihLM+A32Cxf2X9gs2Tt\n/OCluLPBZMAfsva7I5uM9DZWCH0/fUeWAT20UUeVnwqBb+Mk0l0kOXy3OQKBgQCI\nZLGcWiE0PnVNvIU5Q1lyfGxN7Gt1Tm4aeH0iHTEFf68jBckvc1A+eWurJoKOyQoe\n7IqEHFApIOpy+I8KTw82aBgGwP9K2tVs5hd7UoVo6A3L0hNc1zjnKhm1fV6IOwr1\nywGGzLeNhdddvFjD+j/3my92z71shmA46mV3Z2Lp3QKBgQDLCshl+s1dfg2Ub7j9\nhEiASYAbsx/OD+bveBOow77P5AQTa6PNF9cI2ybhLgGZmjDOLMgpVl/MLd2U0F8E\n3xIwVr+FV19vys4h4elAx1IhlDi33Kl7UaMVmT8YlB9p44EgewJ8JTjYdRl2SRoz\nzFwnHO7BoBpd587uX6sR2SSnkg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-pcqoz@pharmazing-35318.iam.gserviceaccount.com",
+  "client_id": "108673582249174859115",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-pcqoz%40pharmazing-35318.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

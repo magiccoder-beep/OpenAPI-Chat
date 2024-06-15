@@ -1,0 +1,219 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-regular: "Zilla Slab Regular", sans-serif;
+  --font-bold: "Zilla Slab Bold", sans-serif;
+  --font-UTM-Times: "UTM Times", sans-serif;
+  --font-MathJax_Regular: "MathJax Regular", sans-serif;
+}
+
+@font-face {
+  font-family: "Zilla Slab Regular";
+  src: url("/assets/fonts/ZillaSlab-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Zilla Slab Bold";
+  src: url("/assets/fonts/ZillaSlab-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "UTM Times";
+  src: url("/assets/fonts/UTM-Times.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MathJax Regular";
+  src: url("/assets/fonts/MathJax_Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  font-family: var(--font-regular);
+  letter-spacing: normal;
+  overflow: hidden;
+  scrollbar-color: #c8f8f6;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #20ad96;
+  border: 5px solid transparent;
+  border-radius: 9px;
+  background-clip: content-box;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  -ms-border-radius: 9px;
+  -o-border-radius: 9px;
+}
+
+.transparent-scrollbar::-webkit-scrollbar {
+  width: 0rem;
+}
+
+.transparent-scrollbar::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.transparent-scrollbar::-webkit-scrollbar-thumb {
+  background: transparent;
+  border: 0px solid transparent;
+  border-radius: 0px;
+  background-clip: content-box;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+button {
+  font-family: var(--font-bold);
+}
+
+input,
+input:focus,
+input::placeholder {
+  outline: none;
+  appearance: none;
+  font-family: var(--font-regular);
+}
+
+input::placeholder {
+  font-size: 900;
+  color: gray;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+
+input:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+a {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.tutorial-bg {
+  background-image: url("/assets/img/tutorial/background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.image-responsive-style img {
+  margin: auto;
+}
+
+.flex-direction-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.close-button-position {
+  margin-top: 0.75%;
+  left: 37%;
+  position: absolute;
+}
+
+.arrow-position {
+  bottom: 30px;
+}
+
+.left-arrow-position {
+  left: 3%;
+}
+
+.I-P {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.real-image-responsive {
+  width: 100%;
+}
+@media screen and (max-width: 1920px) {
+  .image-responsive-style {
+    width: 38% !important;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .real-image-responsive {
+    width: 87%;
+  }
+}
+
+@media screen and (max-width: 1320px) {
+  .close-button-position {
+    left: 36% !important;
+  }
+    .real-image-responsive {
+      width: 90%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+  .close-button-position {
+    left: 35% !important;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .close-button-position {
+    left: 34% !important;
+  }
+}

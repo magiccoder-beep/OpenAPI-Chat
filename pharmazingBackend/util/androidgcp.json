@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pharmazingmarketing",
+  "private_key_id": "165178e4c2f1d663445e3fd2a7823cca9e9420bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCta5ntm6B6nSf6\nUrQX2YaINZeiPCg+Cq2SW6fIXigUFqp02fen48XhQ2JGPXAzC3vnMDL7AqePCY0X\nIhYd3Q2qShCxfk5Qfzcj8QK5sQW4TVXkvAlxWUKTkFZIb2g1BnRoiYsFkypjouUb\no/r03qQCXnee40KyryKQR5gwR9f07cnYLPXclAXnTehKyvuofDc1cFiT8+58hzX5\nm+u37dhFs5p6MMr6tgHcrwPDIw/Ks4NJpGs/nwN/6h1rQkPwaymfK32uO/Xpzb4s\nO/cnly158yMk5reV/JoscdVwgA/5gEv3gpsUWApyYMoXvldJK2ektSmNvT78fT85\nrg+krPC9AgMBAAECggEAKGDPmgyckLgDTSxQ/OWbxp6t0+ssVoe/cr6vAf70V3sQ\njL0MhhWJZyH8oYygEW6I1qM5F4s+btZDOOHpouHrkt0EZoNZYjJAqThuUUSXp5ow\nF941V6Q4FWorwNlZutDqLUXrLezeV40fybAEWFv3dYq/0Omqx7Zx9oSI+aLctE0A\nPq0b0jnYzzD19/V0n87hfsIIWWTb7atmF+Vhm+dPBxWGUvmnEWkxVQKa0DwVc1JI\nALbC4xk3hIrLvEUrfDmALB4h9SLmi3fWWYBbnBo0ccWJrAo4hTUbUXKl9Uzq9Gw2\nvhILJs6cJh614R3j1NKVYCdvnJqYm0wl9xuTLq1q+QKBgQDaMbUy416y447g3C/5\nFADmGt97BsJaq44FZVtazJSyvcg+mop+Pw/yZj8GtiyV99VAedo/w6K3Ps+mbj5T\nXN4/Iym43NAzTA8QG4PKyO+urK0NLR/Fuy1vofS8dKghsdWBT2vUf7vdYBtK37en\nlpbbbvZxrIRlOTTU8+oqajlA2QKBgQDLd+PGOPg0xRBbC1jt7o00Ptln+BDyC+Eb\nSNZOeGu3I0ZnRxDaImoKtiCJdSXbzA2PyZlQe8c9VM56eg7YMofuSVpYKdLxPJa1\nUu3uswCWVfVHDRB68U8SRcWWToAN5fk6ddARCKq9LfBJveZVU4ZdJbSWzcdQnoRB\n50lYV3hAhQKBgQCWE3yTXOpk1roOlcR1aLnZi4BNaW/C157evUFhqbdZXcnerYM2\npH9+da9CGYl/OTC3oVhpZVGFArHmwosh4Y2IFdJ7sX2O2vC9Xn9+ukiJd4Grv27M\nHRt6XgYsnXyLeHrm7062oYkBEjqTfF8g6SYoFiFyPHvv97IMCxz0QY3RuQKBgB95\nilitk2fGXENZPAaCcoF0f3kf3K80uzvXRp+Y7UDFSizLx4WW8UR67AmXf6XCqQ5n\nJzpWC3onVlGH9CfpmTF5U2pz/dengcDG9VuJgTvATFMTaEs8bPjspiYcOp7rxmQO\nuYMJDjB5nMQrhigI5a4fGRKC/qQwAVGYj7YEwetpAoGBALGebk4Y9SOgt+eqZPLv\n6CGJ5dttvaH/QEwVePbgJBHM0xZS8OeEeWyRL3n3wqz4Jjfo7BvWiO2scFmInHQU\necY9WQ9kkazMdQed4B5kQyoGaseSM+WgqPwxpT3nMJzYQCqjQjo3RIXVeWDxNgnX\nvfIYvtuApQyhpCKuF4NZerpI\n-----END PRIVATE KEY-----\n",
+  "client_email": "in-app-purchase@pharmazingmarketing.iam.gserviceaccount.com",
+  "client_id": "112879582460136401938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/in-app-purchase%40pharmazingmarketing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
